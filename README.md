@@ -18,9 +18,10 @@ API REST de usuários e departamentos, com os seguintes casos de uso:
 
 
 ### Desenvolvimento  relacional -> objeto -> json
-![dominio](https://github.com/mariannacrocha/crud-java/assets/63068299/556e7fb2-3562-495c-b977-1ee603747213)
+![dominio](https://github.com/mariannacrocha/crud-java-user-dept/assets/63068299/8b8b9a49-4dd1-409b-877d-0be0825e9b72)
 
 
-![Desenho_solucao](https://github.com/mariannacrocha/crud-java/assets/63068299/9ac64d9a-3714-4022-91a4-5cecb7f5bc50)
 
+
+![Desenho_solucao](https://github.com/mariannacrocha/crud-java-user-dept/assets/63068299/15400849-1927-4e6f-9082-b954e77508f8)
 
